@@ -58,6 +58,30 @@
 
 ---
 
+---
+
+## 课程文件（可直接运行）
+
+| 文件 | 对应课程 |
+|------|----------|
+| `lesson-01-basics.py` | 第1课：print()、变量、运算符、缩进、注释 |
+| `lesson-02-data-types.py` | 第2-3课：数字、字符串、列表、元组、字典、集合 |
+| `lesson-03-control-flow.py` | 第4-5课：条件判断、for/while 循环、break/continue |
+| `lesson-04-functions.py` | 第6课：函数、参数、lambda、map/filter |
+| `lesson-05-modules-files.py` | 第7-8课：模块导入、文件读写 |
+| `lesson-06-exceptions.py` | 第9课：try/except、异常处理、自定义异常 |
+| `lesson-07-oop.py` | 第10课：类、对象、继承、多态、封装 |
+| `lesson-11-iterators-generators.py` | 第11课：iter()、next()、yield、生成器 |
+| `lesson-12-advanced-data-structures.py` | 第12课：列表推导式、栈、队列、遍历技巧 |
+| `lesson-13-namespace-scope.py` | 第13课：LEGB 规则、global、nonlocal |
+| `lesson-14-stdlib.py` | 第14课：os、sys、glob、time、math、random |
+| `lesson-15-json-datetime.py` | 第15课：JSON 数据解析、日期时间操作 |
+| `lesson-16-regex.py` | 第16课：正则表达式、search、findall、sub |
+
+> 用 `python lesson-01-basics.py` 即可运行任意课程文件
+
+---
+
 ## 给新手的学习建议
 
 1. **动手！动手！动手！** —— 只看不写永远学不会。每个例子都要亲手敲一遍。
